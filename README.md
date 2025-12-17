@@ -1,0 +1,2 @@
+# Zabbix-7.4-Installation-Guide-for-Ubuntu-24.04
+Zabbix 7.4 Installation Guide for Ubuntu 24.04
