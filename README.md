@@ -23,7 +23,9 @@ Install Apache and PHP:
 1. Install Apache and PHP
 
 sudo apt install apache2
+
 sudo apt install php php-{cgi,common,mbstring,net-socket,gd,xml-util,mysql,bcmath,imap,snmp}
+
 sudo apt install libapache2-mod-php
 
 -------------------------------------------------------------------------------------------------------------------------
