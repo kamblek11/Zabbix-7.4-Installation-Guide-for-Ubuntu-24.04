@@ -201,7 +201,9 @@ sudo nano /etc/zabbix/zabbix_agentd.conf
 **Update these settings:**
 
 Server=<Zabbix_Server_IP>
+
 ServerActive=<Zabbix_Server_IP>
+
 Hostname=<Client_Hostname>
 
 Restart and enable the agent:
